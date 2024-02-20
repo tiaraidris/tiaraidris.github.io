@@ -2,15 +2,17 @@
 ---
 # Membuat sebuah situs web dinamis melibatkan beberapa langkah dasar dan penggunaan teknologi tertentu. Berikut adalah langkah-langkah umum yang dapat Anda ikuti untuk membuat sebuah situs web dinamis:
 
-## 1. Pemahaman Kebutuhan: Tentukan tujuan dari situs web Anda dan siapa target audiensnya. Buat sketsa atau rancangan situs web untuk memahami bagaimana struktur dan tata letak situs web akan terlihat.
+## 1. Pemahaman Kebutuhan: 
+Tentukan tujuan dari situs web Anda dan siapa target audiensnya. Buat sketsa atau rancangan situs web untuk memahami bagaimana struktur dan tata letak situs web akan terlihat.
 
-## 2. Pilih Platform: Pilih platform atau teknologi yang akan Anda gunakan untuk mengembangkan situs web dinamis. Beberapa opsi yang umum digunakan termasuk:
+## 2. Pilih Platform:
+Pilih platform atau teknologi yang akan Anda gunakan untuk mengembangkan situs web dinamis. Beberapa opsi yang umum digunakan termasuk:
 
   WordPress: Platform manajemen konten (CMS) yang dapat disesuaikan.
   Django: Framework Python untuk pengembangan web.
   Ruby on Rails: Framework Ruby untuk pengembangan web.
   Node.js: Lingkungan runtime JavaScript untuk membangun aplikasi web.
-  Bahasa Pemrograman dan Teknologi: Pilih bahasa pemrograman dan teknologi yang sesuai dengan kebutuhan Anda. Untuk pengembangan web dinamis, Anda biasanya akan menggunakan kombinasi HTML, CSS, JavaScript untuk bagian depan (frontend), dan bahasa pemrograman seperti Python, PHP, Ruby, atau JavaScript (melalui Node.js) untuk bagian belakang (backend).
+  Bahasa Pemrograman dan Teknologi: Pilih bahasa pemrograman dan teknologi yang sesuai dengan kebutuhan Anda. Untuk pengembangan web dinamis, Anda biasanya akan menggunakan kombinasi HTML, CSS, JavaScript untuk bagian     depan (frontend), dan bahasa pemrograman seperti Python, PHP, Ruby, atau JavaScript (melalui Node.js) untuk bagian belakang (backend).
 
 ## 3. Desain Basis Data: 
 Jika situs web Anda akan menggunakan basis data, seperti menyimpan informasi pengguna, posting blog, atau produk, Anda perlu merancang struktur basis data dan memilih sistem manajemen basis data (RDBMS) seperti MySQL, PostgreSQL, MongoDB (NoSQL), dll.
