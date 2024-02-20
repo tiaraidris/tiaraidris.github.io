@@ -1,6 +1,6 @@
 ---
 ---
-# Membuat sebuah situs web dinamis melibatkan beberapa langkah dasar dan penggunaan teknologi tertentu. Berikut adalah langkah-langkah umum yang dapat Anda ikuti untuk membuat sebuah situs web dinamis:
+## Membuat sebuah situs web dinamis melibatkan beberapa langkah dasar dan penggunaan teknologi tertentu. Berikut adalah langkah-langkah umum yang dapat Anda ikuti untuk membuat sebuah situs web dinamis:
 
 ## 1. Pemahaman Kebutuhan: 
 Tentukan tujuan dari situs web Anda dan siapa target audiensnya. Buat sketsa atau rancangan situs web untuk memahami bagaimana struktur dan tata letak situs web akan terlihat.
