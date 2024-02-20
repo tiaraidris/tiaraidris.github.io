@@ -82,6 +82,6 @@ Nah, demikianlah bagaimana cara konfigurasi dasar untuk mengintegrasikan Mikroti
 
 ![Capture JPG8](https://github.com/tiaraidris/taca/assets/156057283/47706bac-aa76-4efc-9c1b-4bc501d0d79d)
 
-            Parsing Database Freeradius ke MySQL Server
+Parsing Database Freeradius ke MySQL Server
 
 Dan juga bisa dikombinasi dengan aplikasi-aplikasi lain untuk management user seperti Access Manager, DaloRadius, phpRADmin, dll.
