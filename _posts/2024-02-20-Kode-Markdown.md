@@ -2,7 +2,7 @@
 ---
 ## beberapa contoh kode perintah Markdown beserta fungsinya:
 
-Judul:
+### Judul:
 
 ```
 # Ini adalah judul level 1
@@ -12,14 +12,14 @@ Judul:
 ```
 Fungsi: Membuat judul dengan tingkatan yang berbeda.
 
-Paragraf:
+### Paragraf:
 
 ```
 Ini adalah paragraf teks biasa. Markdown otomatis mengonversi baris baru menjadi paragraf baru.
 ```
 Fungsi: Menyusun teks menjadi paragraf.
 
-Tebal dan Miring:
+### Tebal dan Miring:
 
 ```
 **Teks tebal**
@@ -28,7 +28,7 @@ Tebal dan Miring:
 
 Fungsi: Memberikan format teks sebagai tebal atau miring.
 
-Daftar Poin:
+### Daftar Poin:
 
 ```
 - Item pertama
@@ -39,7 +39,7 @@ Daftar Poin:
 
 Fungsi: Membuat daftar poin.
 
-Daftar Numerik:
+### Daftar Numerik:
 
 ```
 1. Item satu
@@ -49,7 +49,7 @@ Daftar Numerik:
 
 Fungsi: Membuat daftar numerik.
 
-Tautan (Link):
+### Tautan (Link):
 
 ```
 [Ini adalah teks tautan](https://www.example.com)
@@ -57,14 +57,14 @@ Tautan (Link):
 
 Fungsi: Menambahkan tautan hyperlink.
 
-Gambar:
+### Gambar:
 
 ```
 ![Teks alternatif](gambar.jpg)
 ```
 Fungsi: Menyisipkan gambar dengan teks alternatif.
 
-Blockquote:
+### Blockquote:
 
 ```
 > Ini adalah teks blockquote.
@@ -72,7 +72,7 @@ Blockquote:
 
 Fungsi: Menandai teks sebagai kutipan.
 
-Kode:
+### Kode:
 
 ```
 `Ini adalah kode satu baris`
@@ -80,7 +80,7 @@ Kode:
 
 Fungsi: Menandai teks sebagai kode satu baris.
 
-Blok Kode:
+### Blok Kode:
 
 ```
 ```python
@@ -91,7 +91,7 @@ makefile
 
 Fungsi: Menandai blok teks sebagai blok kode dengan bahasa tertentu.
 
-Garis Horizontal:
+### Garis Horizontal:
 
 ```
 ---
@@ -99,7 +99,7 @@ Garis Horizontal:
 
 Fungsi: Menyisipkan garis horizontal untuk memisahkan elemen.
 
-Tabel:
+### Tabel:
 
 ```
 | Kolom 1 | Kolom 2 |
