@@ -1,6 +1,6 @@
 ---
 ---
-### kode kode freradius
+### KODE KODE MENGISTALL FREERADIUS
 ```
 sudo apt update
 ```
