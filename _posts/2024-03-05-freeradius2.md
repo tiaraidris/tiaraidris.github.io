@@ -33,3 +33,4 @@ Lakukan pemeliharaan rutin, seperti pembaruan perangkat lunak dan pengaturan kea
 ### 7.Skalabilitas:
 Sesuaikan konfigurasi FreeRADIUS seiring pertumbuhan jaringan Anda.
 Pastikan infrastruktur Anda mampu menangani beban kerja yang semakin meningkat seiring waktu.
+![assets](assets/Capture.JPG2024-03-05-freeradius.JPG)
