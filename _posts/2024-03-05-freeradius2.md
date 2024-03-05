@@ -10,7 +10,7 @@ FreeRADIUS mencatat informasi tentang penggunaan jaringan oleh pengguna yang ber
 FreeRADIUS dirancang untuk menangani implementasi jaringan yang besar dan kompleks. Ini dapat diimplementasikan di berbagai lingkungan jaringan, dari jaringan kecil hingga jaringan besar dengan ribuan pengguna dan perangkat.
 ### 5.Keamanan: 
 FreeRADIUS menawarkan berbagai opsi keamanan, termasuk dukungan untuk enkripsi data yang melintasi jaringan dan integrasi dengan teknologi keamanan lainnya seperti LDAP (Lightweight Directory Access Protocol) atau database MySQL.
-# langka-langka menggunakan freetadius
+# langka-langka menggunakan freeradius
 Berikut adalah langkah-langkah umum untuk menggunakan FreeRADIUS:
 ### 1.Instalasi FreeRADIUS:
 Unduh dan instal FreeRADIUS di server atau sistem yang akan berperan sebagai server RADIUS. Anda dapat menginstalnya melalui manajer paket sistem operasi atau mengunduh sumbernya dari situs web resmi FreeRADIUS.
