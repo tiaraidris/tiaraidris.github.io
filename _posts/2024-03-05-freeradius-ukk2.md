@@ -30,3 +30,5 @@ shortname = mikrotik_client
 nastype = mikrotik }
 
 restart sudo systemctl restart freeradius
+
+![assets](/assets/Capture.JPG-tugas-freeradius-berhasil.JPG)
