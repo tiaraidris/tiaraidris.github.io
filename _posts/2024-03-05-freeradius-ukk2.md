@@ -14,8 +14,11 @@ sudo systemctl status freeradius
 
 ### menambah user
 sudo nano /etc/freeradius/3.0/users
+
 john Cleartext-Password := "coba1234" simpan
+
 sudo systemctl restart freeradius
+
 ### mengetes   
 radtest john coba1234 localhost 0 testing123
 ### menambah client nas mikrotik di free radius
