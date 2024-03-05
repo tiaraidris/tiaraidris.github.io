@@ -2,13 +2,6 @@
 sudo apt update
 ## install aplikasi
 sudo apt install freeradius freeradius-mysql freeradius-utils
-sudo systemctl stop freeradius
-sudo freeradius -X
-### pastikan Ready to process requests
-### hentikan proses : Ctrl+ C
-### jalankan service lagi
-systemctl enable --now freeradius
-## Atur firewal jika perlu ufw allow to any port 1812 proto udp ufw allow to any port 1813 proto udp
 ## cek servise
 sudo systemctl start freeradius
 sudo systemctl enable freeradius
