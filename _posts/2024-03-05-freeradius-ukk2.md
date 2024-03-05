@@ -31,4 +31,5 @@ nastype = mikrotik }
 
 restart sudo systemctl restart freeradius
 
+## berhasill
 ![assets](/assets/Capture.JPG-tugas-freeradius-berhasil.JPG)
