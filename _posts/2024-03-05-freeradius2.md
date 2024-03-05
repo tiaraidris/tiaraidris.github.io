@@ -1,3 +1,5 @@
+---
+---
 # Tujuan freeradius
 tujuan utama dari FreeRADIUS adalah menyediakan layanan otentikasi, otorisasi, dan akuntansi (AAA) untuk jaringan komputer. Beberapa tujuan spesifik FreeRADIUS meliputi:
 ### 1.Otentikasi Pengguna: 
@@ -33,4 +35,6 @@ Lakukan pemeliharaan rutin, seperti pembaruan perangkat lunak dan pengaturan kea
 ### 7.Skalabilitas:
 Sesuaikan konfigurasi FreeRADIUS seiring pertumbuhan jaringan Anda.
 Pastikan infrastruktur Anda mampu menangani beban kerja yang semakin meningkat seiring waktu.
-![assets](assets/Capture.JPG2024-03-05-freeradius.JPG)
+
+### hasil praktek
+![assets](/assets/Capture.JPG2024-03-05-freeradius.JPG)
