@@ -1,6 +1,6 @@
 ---
 ---
-# perintahnya
+# perintah-perintahnya
 ### update
 sudo apt update
 ### install aplikasi
