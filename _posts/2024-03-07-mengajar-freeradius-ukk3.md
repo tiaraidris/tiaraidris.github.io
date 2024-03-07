@@ -2,5 +2,8 @@
 ----
 
 ## mengajar aisyah 
+## baru proses mengistall
 
-![assets](/)
+## bukti
+
+![assets](/assets/Capture.JPG)
